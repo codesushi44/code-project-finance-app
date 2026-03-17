@@ -7,7 +7,9 @@ Based on my personal experience, many financial apps on the market are overly pr
 This is my first independent project on GitHub outside of my Final Year Project (FYP). Since I have a full-time job, I will be building this project step-by-step during my spare time.
 
 Core Features:
+
 1)Asset Snapshot: Quick overview of your current financial status.
+
 2)Goal Tracking: Monitor your progress toward specific financial milestones.
 
 Tech Stack
